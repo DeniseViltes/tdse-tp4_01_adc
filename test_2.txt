@@ -1,0 +1,3 @@
+Para el segundo test, se obtiene una media de 885, y una varianza de 0,315.
+
+En este caso hay muy poca variación entre las muestras, siendo el caso más estable. Esto es debido a que estamos observando un promedio de las muestras. Por cada muestra realiza 16 mediciones y las promedia, de esta forma se reduce en gran medida el ruido que se observa en el primer test. 

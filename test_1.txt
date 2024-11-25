@@ -1,0 +1,4 @@
+Para el primer test, se obtiene una media de 883, y una varianza de 2.16.
+
+Como se observa en la figura HistogramaTest1 (carpeta resultados), los resultados presentan una gran varianza, estos se organizan en dos normales centradas en  881 y 885. Se obtiene una media que ofrece poca información, ya que ninguna muestra cae en 883.
+En este test, se observan las muestras leidas directamente con el ADC. En este caso, vemos como afecta el ruido a las mediciones.

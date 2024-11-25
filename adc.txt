@@ -1,0 +1,29 @@
+Resumen de los test,
+
+Test 1:
+-Método: Polling
+-Resultados en tiempo real
+-Media 883,3
+-Desvio 2,16
+
+ Gran variación entre muestras, y poco eficiente (bloqueante)
+
+
+Test 2:
+-Método: Polling
+-Promediado de muestras
+-Media 885,04
+-Desvio 0,315
+
+Resultado preciso, pero poco eficiente (bloqueante)
+
+
+Test 3:
+-Metodo: Interrupciones
+-Resultados luego de cada conversión
+-Media 885,17
+-Desvio 2,17
+
+Gran variacion, pero es eficiente (no bloqueante)
+
+--------------------------------------------------------------------------
